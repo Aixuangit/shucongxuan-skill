@@ -1,8 +1,36 @@
-# Shucongxuan Skill
+# Skill Laoshu
 
 &gt; « Ne sois pas un cochon dans une tendance chaude, sois plutôt un arbre que tu connais bien »
 &gt;
 &gt; « En 2012, nous avons dépensé beaucoup d'argent pour travailler avec Trout sur le positionnement, en changeant « Feixi Old Chicken » en « Laoxiangji » – c'est le meilleur argent que j'ai jamais dépensé dans ma vie »
+
+---
+
+## À propos de Laoxiangji et Shucongxuan
+
+### Présentation de Laoxiangji
+Laoxiangji est une marque bien connue dans le secteur de la restauration rapide à la chinoise, dont le siège est à Hefei, dans la province de l'Anhui. Depuis sa création, Laoxiangji a toujours adhéré à la philosophie « être honnête, faire de la nourriture honnête » et s'est engagé à fournir aux consommateurs une nourriture rapide à la chinoise saine, délicieuse et abordable.
+
+Laoxiangji prend la soupe de vieux poulet Feixi d'Anhui comme produit de base, tout en proposant une riche variété de plats à la chinoise pour répondre aux besoins gustatifs des différents consommateurs. En 2026, Laoxiangji compte plus de 2000 magasins à travers le pays et a ouvert son premier magasin à l'étranger à Singapour, explorant activement la voie de l'internationalisation de la restauration rapide à la chinoise.
+
+### Présentation de Shucongxuan
+Shucongxuan, fondateur de Laoxiangji, est originaire de Feixi, province d'Anhui. En 1999, Shucongxuan a ouvert son premier restaurant rapide à Feixi, commençant le parcours entrepreneurial de Laoxiangji.
+
+En 2012, Shucongxuan a pris la décision stratégique de changer le nom de la marque de « Feixi Old Chicken » à « Laoxiangji », posant les bases du développement national de la marque. Sous la direction de Shucongxuan, Laoxiangji a établi un système complet de chaîne d'approvisionnement : cuisine centrale + distribution en chaîne froide, garantissant la qualité des ingrédients et la cohérence du goût.
+
+Pendant la pandémie COVID en 2020, Laoxiangji a activement pris ses responsabilités sociales, fermant les magasins mais ne licenciant pas le personnel et versant des salaires de base aux employés, gagnant des éloges généralisés de tous les secteurs de la société. En 2025, Shucongxuan a démissionné du poste de représentant légal de Laoxiangji, remplacé par son fils Shu Xiaolong, mais Shucongxuan reste toujours dans un rôle de prise de décision stratégique.
+
+Avec son style pragmatique grassroots, sa poursuite persistante de la qualité, son attention portée aux employés et sa pratique profonde de la théorie du positionnement, Shucongxuan est devenu un entrepreneur représentatif de l'industrie alimentaire et de la restauration en Chine.
+
+---
+
+## Avis de non-responsabilité important
+
+⚠️ **Rappels importants** :
+- Ce Skill est un cadre cognitif extrait d'informations publiques, destiné uniquement à l'apprentissage et à la recherche, et non aux opinions de Shucongxuan lui-même ou de Laoxiangji officiel.
+- Tout le contenu de ce Skill provient de sources d'informations publiques, représentant seulement l'organisation et l'analyse des informations publiques, et ne constituant pas un conseil d'investissement ou un guide décisionnel.
+- Shucongxuan, Laoxiangji et les marques associées appartiennent à leurs titulaires respectifs. Ce Skill n'a aucune association avec Shucongxuan lui-même ou Laoxiangji officiel.
+- Toute conséquence découlant de l'utilisation de ce Skill est la seule responsabilité de l'utilisateur.
 
 ---
 
@@ -74,27 +102,27 @@ Tant que votre Agent supporte le **protocole Agent Skills**, ce Skill fonctionne
    Donnez simplement le contenu de `SKILL.md` à votre Agent, ou dites à l'Agent de charger ce fichier.
 
 2. **Mots-clés de déclenchement** (généraux) :
-   - « Utilise la perspective de Shucongxuan »
-   - « Que penserait Shucongxuan ? »
-   - « Bascule sur Shucongxuan »
+   - « Utilise la perspective de Laoshu »
+   - « Que penserait Laoshu ? »
+   - « Bascule sur Laoshu »
    - « shucongxuan perspective »
 
 ---
 
-## Modèles mentaux fondamentaux en un coup d'œil
+## Modèles mentaux fondamentaux en un coup d'œil (Basés sur la pratique de Laoxiangji)
 
 | Modèle | Description en une phrase |
 |--------|----------------------------|
-| Pensée **Positionnement de Trout** | La concurrence n'est pas sur le marché, elle est dans l'esprit des consommateurs. Tu dois occuper un mot. |
-| Pensée **Flux de trésorerie d'abord** | Le flux de trésorerie est le sang de l'entreprise, plus important que le profit. Stopper est plus effrayant que de perdre de l'argent. |
-| Pensée **Chaîne d'approvisionnement est la racine** | La racine d'un restaurant n'est pas dans le marketing ou les points de vente, elle est dans la chaîne d'approvisionnement. Une chaîne d'approvisionnement forte signifie une entreprise forte. |
-| Pensée **Long terme / Marathon** | Le développement d'une entreprise est un marathon, pas un sprint. Mais n'allez pas trop lentement quand tu dois aller vite. |
-| Pensée **Concentration / Ne pas poursuivre les tendances** | Ne sois pas un cochon dans une tendance chaude, sois plutôt un arbre que tu connais bien. Mais tu peux essayer si c'est connecté à tes racines. |
-| Pensée **Pragmatisme grassroots** | Reste fidèle aux racines paysannes, ne parles pas en vides, fais des choses pratiques, reste enraciné. |
+| Pensée **Positionnement de Trout** | La concurrence n'est pas sur le marché, elle est dans l'esprit des consommateurs. Tu dois occuper un mot. C'est exactement ce que Laoxiangji a fait. |
+| Pensée **Flux de trésorerie d'abord** | Le flux de trésorerie est le sang de l'entreprise, plus important que le profit. Stopper est plus effrayant que de perdre de l'argent. C'est la clé du développement stable de Laoxiangji. |
+| Pensée **Chaîne d'approvisionnement est la racine** | La racine d'un restaurant n'est pas dans le marketing ou les points de vente, elle est dans la chaîne d'approvisionnement. Une chaîne d'approvisionnement forte signifie une entreprise forte. Laoxiangji a construit une cuisine centrale en 2016 pour cette raison. |
+| Pensée **Long terme / Marathon** | Le développement d'une entreprise est un marathon, pas un sprint. Mais n'allez pas trop lentement quand tu dois aller vite. Laoxiangji a passé de 1 magasin à 2000 magasins en plus de 20 ans. |
+| Pensée **Concentration / Ne pas poursuivre les tendances** | Ne sois pas un cochon dans une tendance chaude, sois plutôt un arbre que tu connais bien. Mais tu peux essayer si c'est connecté à tes racines. C'est comme ça que Laoxiangji fonctionne : concentré sur la restauration rapide à la chinoise, mais essayant aussi les plats préparés en complément. |
+| Pensée **Pragmatisme grassroots** | Reste fidèle aux racines paysannes, ne parles pas en vides, fais des choses pratiques, reste enraciné. C'est la base du parcours de Laoxiangji de Feixi, Anhui à l'échelle nationale. |
 
 ---
 
-## Perspective d'analyse de données d'entreprise (Que regarderait Shucongxuan ?)
+## Perspective d'analyse de données d'entreprise (Que regarderait Laoxiangji ?)
 
 | Dimension | Indicateurs clés |
 |-----------|------------------|
@@ -123,6 +151,15 @@ shucongxuan-perspective/
 ---
 
 ## Historique des versions
+
+### v3.0 (2026-05-29)
+- ✅ Mise à niveau de la marque : Renommé en « Skill Laoshu »
+- ✅ Ajouté une présentation officielle de Laoxiangji et Shucongxuan (pour éviter les risques juridiques)
+- ✅ Fréquemment mentionné « Laoxiangji » dans tout le texte pour souligner l'association de marque
+- ✅ Ajouté un avis de non-responsabilité important
+
+### v2.6 (2026-05-29)
+- ✅ Mise à jour majeure : Ajouté des versions en anglais et en français du README, correspondant parfaitement au contenu actuel de SKILL
 
 ### v2.5 (2026-05-28)
 - ✅ Correction de fait : La phrase « Ne sois pas un cochon dans une tendance chaude, sois plutôt un arbre que tu connais bien » ne peut pas être vérifiée à une source claire. Elle a été marquée dans SKILL.md comme « Basée sur le style réel de décision »
